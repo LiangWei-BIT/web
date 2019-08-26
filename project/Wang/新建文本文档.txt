@@ -1,0 +1,4 @@
+Spatially Perturbed Collision Sounds Attenuate Perceived Causality in 3D Launching Events
+Duotun Wang, James Kubricht, Yixin Zhu, Wei Liang, Song-Chun Zhu, Chenfanfu Jiang, and Hongjing Lu. IEEE VR 2018
+
+Changyang Li, Wei Liang, Chris Quigley, Yibiao Zhao, Lap-Fai Yu. TVCG(Special Issue on IEEE Virtual Reality 2017).
