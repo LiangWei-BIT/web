@@ -1,0 +1,279 @@
+{
+  "news_ch": [
+    "[2020.08] 论文 \"Scene Mover: Automatic Move Planning for Scene Arrangement by Deep Reinforcement Learning\" 被 SIGGRAPH Asia 2020 接收. 恭喜汗青!"
+  ],
+  
+  "news": [
+    "[2020.08] Our paper \"Scene Mover: Automatic Move Planning for Scene Arrangement by Deep Reinforcement Learning\" was accepted by SIGGRAPH Asia 2020. Congratulations to Hanqing!",
+
+    "[2020.07] Two papers were accepted by ACM MM 2020. Congratulations to Yujia and Sifan!",
+
+    "[2019.08] Our paper \"Comic-Guided Speech Synthesis\" was accepted by SIGGRAPH Asia 2019. Congratulations to Yujia!",
+
+    "[2019.05] Our paper \"A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data\" was accepted by Pattern Recognition. Congratulations to Yujia!",
+
+    "[2019.02] Our paper \"Functional Workspace Optimization via Learning Personal Preferences from Virtual Experiences\" was reported by <a href=\"https://shiropen.com/seamless/functional-workspace-optimization-via-learning-personal-preferences-from-virtual-experiences\" style=\"vertical-align: middle;color:#4169E1\">Seamless</a>. Congratulations to Jingjing!",
+
+    "[2019.02] Our paper \"Virtual Agent Positioning Driven by Scene Semantics in Mixed Reality\" was reported by <a href=\"https://shiropen.com/seamless-virtual-agent-positioning-driven\" style=\"vertical-align: middle;color:#4169E1\">Seamless</a>. Congratulations to Yining!",
+
+    "[2019.02] Our paper was accepted by IEEE Virtual Reality 2019. Congratulations to Yining!",
+
+    "[2018.11] Our paper was accepted by TVCG Special Issue on IEEE Virtual Reality and 3D User Interfaces (IEEE VR) 2019. Congratulations to Jingjing!",
+
+    "[2018.11] Two papers were accepted by AAAI 2019. Congratulations to Hanqing and Yining!",
+
+    "[2018.10] Yining received the 2018 national fellowship. Congratulations!",
+
+    "[2018.01] Our paper \"Synthesizing Personalized Training Programs for Improving Driving Habits via Virtual Reality\" has been accepted by IEEE VR 2018.",
+
+    "[2018.01] Our paper \"Spatially Perturbed Collision Sounds Attenuate Perceived Causality in 3D Launching Events\" has been accepted by IEEE VR 2018.",
+
+    "[2017.11] Our paper \"Tracking Occluded Objects and Recovering Incomplete Trajectories by Reasoning about Containment Relations and Human Actions\" has been accepted to AAAI 2018.",
+
+    "[2017.07] Our paper \"Transferring Object: Joint Inference of Container and Human Pose\" has been accepted to ICCV 2017."
+  ],
+
+  "publications": [
+    {
+      "image": "https://i.loli.net/2021/02/07/VgnQBWTcsak15Et.jpg",
+      "title": "Scene-Aware Behavior Synthesis for Virtual Pets in Mixed Reality.",
+      "authors": "Wei Liang, Xinzhe Yu, Rawan Alghofaili, Yining Lang, Lai-Fai Yu.",
+      "publisher": "ACM CHI 2021 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/chi21_pets/chi21_pets.pdf",
+      "video": "https://youtu.be/VbAe-0_SNXg",
+      "presentation": "http://liangwei-bit.github.io/web/",
+      "project": "http://liangwei-bit.github.io/web/project/chi21_pets"
+    },
+    {
+      "image": "https://i.loli.net/2021/02/07/wCsZoqf3A6IEuQR.jpg",
+      "title": "Toward Automatic Audio Description Generation for Accessible Videos.",
+      "authors": "Yujia Wang, Wei Liang, Haikun Huang, Yongqi Zhang, Dingzeyu Li, and Lap-Fai Yu.",
+      "publisher": "ACM CHI 2021 (CCF A)",
+      "paper": "https://bitwangyujia.github.io/research/paper/SIGCHI2021-ad.pdf",
+      "video": "https://youtu.be/S45vFg476aM",
+      "presentation": "/",
+      "project": "http://liangwei-bit.github.io/web/project/chi21_description"
+    },
+    {
+      "image": "https://i.loli.net/2021/02/08/OEkoLZwRvVse8tK.jpg",
+      "title": "Climaxing VR Character with Scene-Aware Aesthetic Dress Synthesis",
+      "authors": "Sifan Hou, Yujia Wang, Wei Liang, and Bing Ning.",
+      "publisher": "IEEE VR 2021 (CCF A)",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "https://i.loli.net/2021/02/07/q7gu5zy3mwQsDkX.jpg",
+      "title": "Work Surface Arrangement Optimization Driven by Human Activity.",
+      "authors": "JingJing Liu, Wei Liang, Bing Ning, and Ting Mao.",
+      "publisher": "IEEE VR 2021 (CCF A)",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "https://i.loli.net/2021/02/07/qsDiM8KFb2nXByL.jpg",
+      "title": "Interactive Context-Aware Furniture Recommendation using Mixed Reality.",
+      "authors": "Hongfei Yu, Wei Liang, Shihao Song, Bing Ning, and Yixin Zhu.",
+      "publisher": "IEEE VR 2021  (CCF A)",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "https://i.loli.net/2021/02/07/hWCi6AT4IvmD3fd.gif",
+      "title": "Scene Mover: Automatic Move Planning for Scene Arrangement by Deep Reinforcement Learning.",
+      "authors": "Hanqing Wang, Wei Liang, and Lap-Fai Yu.",
+      "publisher": "SIGGRAPH Asia 2020 (CCF A)",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "https://i.loli.net/2021/02/07/K8V6PvYqaQk9XIO.jpg",
+      "title": "Scene-Aware Background Music Synthesis.",
+      "authors": "Yujia Wang, Wei Liang, Wanwan Li, Dingzeyu Li, and Lap-Fai Yu",
+      "publisher": "ACM MM 2020 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation (9% acceptance rate) </font>",
+      "paper": "http://liangwei-bit.github.io/web/project/mm20_music/MM-music.pdf",
+      "video": "https://youtu.be/fG2u2QG8ejU",
+      "presentation": "/",
+      "project": "http://liangwei-bit.github.io/web/project/mm20_music"
+    },
+    {
+      "image": "/project/mm20_pose/mm20_pose.jpg",
+      "title": "Photo Stand-Out: Photography with Virtual Character.",
+      "authors": "Yujia Wang, Sifan Hou, Bing Ning, and Wei Liang.",
+      "publisher": "ACM MM 2020 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation (9% acceptance rate) </font>",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "https://i.loli.net/2021/02/07/9nwZJucr5FblGQT.jpg",
+      "title": "Active Visual Information Gathering for Vision-Language Navigation.",
+      "authors": "Hanqing Wang, Wenguan Wang, Tianmin Shu, Wei Liang, and Jianbing Shen.",
+      "publisher": "ECCV 2020 (CCF B)",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/RMbt4PJFCVfDErQ.png",
+      "title": "Comic-Guided Speech Synthesis.",
+      "authors": "Yujia Wang, Wenguan Wang, Wei Liang and Lap-Fai Yu.",
+      "publisher": "SIGGRAPH Asia 2019 (CCF A)",
+      "paper": "https://bitwangyujia.github.io/research/paper/siga19-comic.pdf",
+      "video": "https://www.youtube.com/watch?v=2cOgWoejbr8&feature=youtu.be",
+      "presentation": "https://bitwangyujia.github.io/research/project/Speech_Results/Speech_Results.html",
+      "project": "https://bitwangyujia.github.io/research/project/comic2speech.html"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/Baqm1CbKFkfoT53.gif",
+      "title": "A Deep Coarse-to-Fine Network for Head Pose Estimation from Synthetic Data.",
+      "authors": "Yujia Wang, Wei Liang, Jianbing Shen, Yunde Jia, and Lap-Fai Yu.",
+      "publisher": "Pattern Recognition 2019",
+      "paper": "http://liangwei-bit.github.io/web/project/headpose/PR-headpose-2019.pdf",
+      "video": "https://youtu.be/30nTWHXURjQ",
+      "presentation": "http://liangwei-bit.github.io/web/project/headpose/PR-headpose-2019.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/headpose"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/8mMNcpvxXsb9g6j.gif",
+      "title": "Virtual Agent Positioning Driven by Scene Semantics in Mixed Reality.",
+      "authors": "Yining Lang, Wei Liang, and Lap-Fai Yu.",
+      "publisher": "IEEE VR 2019 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/agent/AR-v22.pdf",
+      "video": "http://liangwei-bit.github.io/web/project/agent/video.mp4",
+      "presentation": "http://liangwei-bit.github.io/web/project/agent/AR-v22.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/agent"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/nbygOF6vptMuPiY.gif",
+      "title": "Functional Workspace Optimization via Learning Personal Preferences from Virtual Experiences.",
+      "authors": "Wei Liang, Jingjing Liu, Yining Lang, Bing Ning and Lap-Fai Yu.",
+      "publisher": "IEEE TVCG 2019 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/kitchen/tvcg19kitchen.pdf",
+      "video": "https://youtu.be/2Eg3_0vHU2U",
+      "presentation": "http://liangwei-bit.github.io/web/project/kitchen/tvcg19kitchen.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/kitchen"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/SC1dtHu6JKarlxR.gif",
+      "title": "Deep Single-View 3D Object Reconstruction with Visual Hull Embedding",
+      "authors": "Hanqing Wang, Jiaolong Yang, Wei Liang and Xin Tong. ",
+      "publisher": "AAAI 2019 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation </font>",
+      "paper": "https://arxiv.org/pdf/1809.03451.pdf",
+      "video": "https://youtu.be/nBjzM7PasGk",
+      "presentation": "http://liangwei-bit.github.io/web/project/aaai19_3d_recon/presentation.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/aaai19_3d_recon"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/lQUSbprea718hmZ.gif",
+      "title": "3D Face Synthesis Driven by Personality Impression",
+      "authors": "Yining Lang, Wei Liang, Yujia Wang, and Lap-Fai Yu. ",
+      "publisher": "AAAI 2019 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/face/aaai19-face_v8.pdf",
+      "video": "https://youtu.be/B8b8iQOu45c",
+      "presentation": "http://liangwei-bit.github.io/web/project/face/aaai19-face_v8.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/face"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/KqYvHmXf8adlDwV.gif",
+      "title": "Tracking Occluded Objects and Recovering Incomplete Trajectories by Reasoning about Containment Relations and Human Actions.",
+      "authors": "Wei Liang, Yixin Zhu, and Song-Chun Zhu.",
+      "publisher": "AAAI 2018 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/aaai_tracking/AAAI_2018_Tracking_by Reasoning.pdf",
+      "video": "https://youtu.be/Uc8pKLo319I",
+      "presentation": "/",
+      "project": "http://liangwei-bit.github.io/web/project/aaai_tracking"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/mC1lxOeP4zMDTqk.gif",
+      "title": "Synthesizing Personalized Training Programs for Improving Driving Habits via Virtual Reality.",
+      "authors": "Yining Lang, Wei Liang, Fang Xu, Yibiao Zhao, and Lap-Fai Yu. ",
+      "publisher": "IEEE VR 2018 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/Driving/IEEE-VR-DRIVING.pdf",
+      "video": "https://youtu.be/KEIFE8ZfWgo",
+      "presentation": "http://liangwei-bit.github.io/web/project/Driving/IEEE-VR-Driving.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/Driving"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/6WqKGnrNezj7m3P.gif",
+      "title": "Spatially Perturbed Collision Sounds Attenuate Perceived Causality in 3D Launching Events.",
+      "authors": "Duotun Wang, James Kubricht, Yixin Zhu, Wei Liang, Song-Chun Zhu, Chenfanfu Jiang, and Hongjing Lu.",
+      "publisher": "IEEE VR 2018 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/Wang/vr18b-sub1099-cam-i6.pdf",
+      "video": "https://youtu.be/s0pPDoyPnCk",
+      "presentation": "http://liangwei-bit.github.io/web/project/Wang/ieeevr2018_oral_final _for pdf.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/Wang"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/hszOl8Aw5u2Z7K6.gif",
+      "title": "Transferring Object: Joint Inference of Container and Human Pose.",
+      "authors": "Hanqing Wang, Wei Liang, and Lap-Fai Yu.",
+      "publisher": "ICCV 2017 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/container/iccv2017container_files/iccv2017container.pdf",
+      "video": "https://youtu.be/oCNCHbYmGgg",
+      "presentation": "/",
+      "project": "http://liangwei-bit.github.io/web/project/container"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/KcHQkZiz56eMvmp.gif",
+      "title": "Earthquake Safety Training through Virtual Drills.",
+      "authors": "Changyang Li, Wei Liang, Chris Quigley, Yibiao Zhao, and Lap-Fai Yu.",
+      "publisher": "IEEE TVCG 2017 (CCF A)",
+      "paper": "http://liangwei-bit.github.io/web/project/earthquake/vr2017earthquake_files/vr2017earthquake.pdf",
+      "video": "https://youtu.be/NdVcUAB0XAE",
+      "presentation": "/",
+      "project": "http://liangwei-bit.github.io/web/project/earthquake"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/DesYv2wZ9iBqMTA.gif",
+      "title": "What is Where: Inferring Containment Relations from Videos.",
+      "authors": "Wei Liang, Yibiao Zhao, Yixin Zhu, and Song-chun Zhu.",
+      "publisher": "IJCAI 2016 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation </font>",
+      "paper": "http://liangwei-bit.github.io/web/project/ijcai16_container/ijcai16_container.pdf",
+      "video": "https://youtu.be/VQlssiSGQHc",
+      "presentation": "/",
+      "project": "http://liangwei-bit.github.io/web/project/ijcai16_container"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/cZl9IMFHp2iLArs.gif",
+      "title": "3D Head Pose Estimation with Convolutional Neural Network Trained on Synthetic Images.",
+      "authors": "Xiabing Liu, Wei Liang, Yumeng Wang, Shuyang Li, and Mingtao Pei.",
+      "publisher": "ICIP 2016",
+      "paper": "http://liangwei-bit.github.io/web/project/icip16_headpose/icip16_headpose.pdf",
+      "video": "/",
+      "presentation": "/",
+      "project": "http://liangwei-bit.github.io/web/project/icip16_headpose"
+    },
+    {
+      "image": "https://i.loli.net/2020/09/26/843unv9Cjz75m6N.gif",
+      "title": "Evaluating Human Cognition of Containing Relations with Physical Simulation.",
+      "authors": "Wei Liang, Yibiao Zhao, Yixin Zhu, and Songchun Zhu.",
+      "publisher": "CogSci 2015 (CCF B)",
+      "paper": "http://liangwei-bit.github.io/web/project/cogsci15_container/cogsci15_container.pdf",
+      "video": "https://www.youtube.com/watch?v=kmO4MptwhhM",
+      "presentation": "http://liangwei-bit.github.io/web/project/cogsci15_container/ppt.pdf",
+      "project": "http://liangwei-bit.github.io/web/project/cogsci15_container"
+    }
+  ],
+  
+  "photos": [
+    {
+      "img": "/People - MCISLab_files/activity20210530-1.jpg",
+      "des": "2021.5.30"
+    },
+    {
+      "img": "/People - MCISLab_files/activity20210530-2.jpg",
+      "des": "2021.5.30"
+    }
+  ]
+}

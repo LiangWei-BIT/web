@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="https://cdn.bootcss.com/twitter-bootstrap/2.3.2/css/bootstrap.min.css">
   <script src="https://cdn.bootcss.com/jquery/1.10.2/jquery.min.js"></script>
   <script src="https://cdn.bootcss.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
 	<style>
 		a.one:link,
 		a.one:visited {
@@ -35,7 +36,7 @@
 </head>
 
 <body>
-	<div class="container">
+	<div id="app" class="container">
 		<div class="row">
 			<div class="span3">
 				<br><br><br />
@@ -75,7 +76,30 @@
 		<br>
 		<br>
 
-		<h3>Coming Soon!</h3>
+		<h3>Activities</h3>
+
+
+
+		<div class="row">
+			<lab-activity v-for="(act, index) in activities" v-bind:key="index" v-bind:activity="act"></lab-activity>
+
+			<!-- <div class="span6" style="margin-bottom: 10px;">
+				<div class="thumbnail">
+					<img src="/People - MCISLab_files/activity20210530-1.jpg">
+					<div class="caption">
+						<p>2021.5.30</p>
+					</div>
+				</div>
+			</div>
+			<div class="span6" style="margin-bottom: 10px;">
+				<div class="thumbnail">
+					<img src="/People - MCISLab_files/activity20210530-2.jpg">
+					<div class="caption">
+						<p>2021.5.30</p>
+					</div>
+				</div>
+			</div> -->
+		</div>
 
 		<br>
 		<br>
@@ -113,4 +137,39 @@
     <br>
 	</div>
 </body>
+<script>
+Vue.component('lab-activity', {
+  template: `
+	<div class="span6" style="margin-bottom: 10px;">
+		<div class="thumbnail">
+			<img v-bind:src="activity.img">
+			<div class="caption">
+				<p>{{ activity.des }}</p>
+			</div>
+		</div>
+	</div>
+	`,
+  props: ['activity']
+})
+
+let app = new Vue({
+	el: '#app',
+	data: {
+		activities: [],
+	},
+	methods: {
+		loadData() {
+			let vm = this
+
+			$.getJSON( "/data.json", function(json) {
+				vm.activities = json["photos"]
+			});
+		},
+	},
+})
+
+app.loadData()
+
+</script>
+
 </html>
