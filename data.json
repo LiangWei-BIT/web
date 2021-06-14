@@ -265,14 +265,14 @@
       "project": "http://liangwei-bit.github.io/web/project/cogsci15_container"
     }
   ],
-  
+
   "photos": [
     {
-      "img": "/People - MCISLab_files/activity20210530-1.jpg",
+      "img": "./People - MCISLab_files/activity20210530-1.jpg",
       "des": "2021.5.30"
     },
     {
-      "img": "/People - MCISLab_files/activity20210530-2.jpg",
+      "img": "./People - MCISLab_files/activity20210530-2.jpg",
       "des": "2021.5.30"
     }
   ]
