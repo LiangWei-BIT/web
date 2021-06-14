@@ -105,7 +105,7 @@
       "project": "http://liangwei-bit.github.io/web/project/mm20_music"
     },
     {
-      "image": "/project/mm20_pose/mm20_pose.jpg",
+      "image": "./project/mm20_pose/mm20_pose.jpg",
       "title": "Photo Stand-Out: Photography with Virtual Character.",
       "authors": "Yujia Wang, Sifan Hou, Bing Ning, and Wei Liang.",
       "publisher": "ACM MM 2020 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation (9% acceptance rate) </font>",
