@@ -48,22 +48,22 @@
 				<br><br><br>
 				<ul style="list-style-type:none;margin:0;padding:0;overflow:hidden;">
 					<li style="float:left">
-						<a class="one" href="/">Home</a>
+						<a class="one" href="./">Home</a>
 					</li>
 					<!-- <li style="float:left">
 							<a class="one" href="http://liangwei-bit.github.io/web/project-liangwei.html">Projects</a>
 						</li> -->
 					<li style="float:left">
-						<a class="one" href="/people-liangwei.html">People</a>
+						<a class="one" href="./people-liangwei.html">People</a>
 					</li>
 					<li style="float:left">
-						<a class="one" href="/teaching-liangwei.html">Teaching</a>
+						<a class="one" href="./teaching-liangwei.html">Teaching</a>
 					</li>
 					<li style="float:left">
-						<a class="one" href="/photo-liangwei.html">Photos</a>
+						<a class="one" href="./photo-liangwei.html">Photos</a>
 					</li>
 					<li style="float:left">
-						<a class="one" href="/chinese-liangwei.html">中 文</a>
+						<a class="one" href="./chinese-liangwei.html">中 文</a>
 					</li>
 
 					<!-- <li style="float:left">
@@ -82,23 +82,6 @@
 
 		<div class="row">
 			<lab-activity v-for="(act, index) in activities" v-bind:key="index" v-bind:activity="act"></lab-activity>
-
-			<!-- <div class="span6" style="margin-bottom: 10px;">
-				<div class="thumbnail">
-					<img src="/People - MCISLab_files/activity20210530-1.jpg">
-					<div class="caption">
-						<p>2021.5.30</p>
-					</div>
-				</div>
-			</div>
-			<div class="span6" style="margin-bottom: 10px;">
-				<div class="thumbnail">
-					<img src="/People - MCISLab_files/activity20210530-2.jpg">
-					<div class="caption">
-						<p>2021.5.30</p>
-					</div>
-				</div>
-			</div> -->
 		</div>
 
 		<br>
@@ -107,7 +90,7 @@
 		<div class="row">
 			<div class="span1">
 				&nbsp;&nbsp;
-				<img alt="130x130" src="/img/huibiao.png" style="width:60px; height:60px" />
+				<img alt="130x130" src="./img/huibiao.png" style="width:60px; height:60px" />
 			</div>
 
 			<div class="span4">
@@ -161,7 +144,7 @@ let app = new Vue({
 		loadData() {
 			let vm = this
 
-			$.getJSON( "/data.json", function(json) {
+			$.getJSON( "./data.json", function(json) {
 				vm.activities = json["photos"]
 			});
 		},

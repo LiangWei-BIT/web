@@ -45,22 +45,22 @@
         <br><br><br>
         <ul style="list-style-type:none;margin:0;padding:0;overflow:hidden;">
           <li style="float:left">
-            <a class="one" href="/">Home</a>
+            <a class="one" href="./">Home</a>
           </li>
           <!-- <li style="float:left">
             <a class="one" href="http://liangwei-bit.github.io/web/project-liangwei.html">Projects</a>
           </li> -->
           <li style="float:left">
-            <a class="one" href="/people-liangwei.html">People</a>
+            <a class="one" href="./people-liangwei.html">People</a>
           </li>
           <li style="float:left">
-            <a class="one" href="/teaching-liangwei.html">Teaching</a>
+            <a class="one" href="./teaching-liangwei.html">Teaching</a>
           </li>
           <li style="float:left">
-            <a class="one" href="/photo-liangwei.html">Photos</a>
+            <a class="one" href="./photo-liangwei.html">Photos</a>
           </li>
           <li style="float:left">
-            <a class="one" href="/chinese-liangwei.html">中 文</a>
+            <a class="one" href="./chinese-liangwei.html">中 文</a>
           </li>
 
           <!-- <li style="float:left">
@@ -73,7 +73,7 @@
     <div class="row">
       <div class="span3">
         <br>
-        &nbsp;&nbsp;&nbsp;&nbsp;<img alt="100x100" src="/img/people4.png" width="150" height="150" />
+        &nbsp;&nbsp;&nbsp;&nbsp;<img alt="100x100" src="./img/people4.png" width="150" height="150" />
       </div>
 
       <div class="span9">
@@ -130,7 +130,7 @@
     <div class="row">
       <div class="span1">
         &nbsp;&nbsp;
-        <img alt="130x130" src="/img/huibiao.png" style="width:60px; height:60px" />
+        <img alt="130x130" src="./img/huibiao.png" style="width:60px; height:60px" />
       </div>
 
       <div class="span4">
@@ -271,7 +271,7 @@
         loadData() {
           let vm = this
 
-          $.getJSON( "/data.json", function(json) {
+          $.getJSON( "./data.json", function(json) {
             vm.jsondata = json
           });
         },
