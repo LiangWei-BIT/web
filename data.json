@@ -35,6 +35,16 @@
 
   "publications": [
     {
+      "image": "https://i.loli.net/2021/06/27/cLnTK41wvZsXO5C.png",
+      "title": "Structured Scene Memory for Vision-Language Navigation",
+      "authors": "Hanqing Wang, Wenguan Wang, Wei Liang, and Jianbing Shen",
+      "publisher": "CVPR 2021 (CCF A)",
+      "paper": "https://hanqingwangai.github.io/assets/files/posts/ssm/ssm.pdf",
+      "video": "http://liangwei-bit.github.io/web/",
+      "presentation": "http://liangwei-bit.github.io/web/",
+      "project": "https://github.com/HanqingWangAI/SSM"
+    },
+    {
       "image": "https://i.loli.net/2021/02/07/VgnQBWTcsak15Et.jpg",
       "title": "Scene-Aware Behavior Synthesis for Virtual Pets in Mixed Reality.",
       "authors": "Wei Liang, Xinzhe Yu, Rawan Alghofaili, Yining Lang, Lai-Fai Yu.",
@@ -274,6 +284,42 @@
     {
       "img": "./People - MCISLab_files/activity20210530-2.jpg",
       "des": "2021.5.30"
+    },
+    {
+      "img": "./People - MCISLab_files/activity_000.jpg",
+      "des": "聚餐"
+    },
+    {
+      "img": "./People - MCISLab_files/activity_001.jpg",
+      "des": ""
+    },
+    {
+      "img": "./People - MCISLab_files/activity_002.jpg",
+      "des": ""
+    },
+    {
+      "img": "./People - MCISLab_files/activity_003.jpg",
+      "des": ""
+    },
+    {
+      "img": "./People - MCISLab_files/activity_004.jpg",
+      "des": "聚餐"
+    },
+    {
+      "img": "./People - MCISLab_files/activity_005.jpg",
+      "des": "MCIS 2020 年会"
+    },
+    {
+      "img": "./People - MCISLab_files/activity_006.jpg",
+      "des": "2017 VR"
+    },
+    {
+      "img": "./People - MCISLab_files/activity_007.png",
+      "des": "2018 VR"
+    },
+    {
+      "img": "./People - MCISLab_files/activity_008.jpg",
+      "des": "2018 VR"
     }
   ]
 }
