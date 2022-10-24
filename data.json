@@ -1,9 +1,21 @@
 {
   "news_ch": [
-    "[2020.08] 论文 \"Scene Mover: Automatic Move Planning for Scene Arrangement by Deep Reinforcement Learning\" 被 SIGGRAPH Asia 2020 接收. 恭喜汗青!"
+    "[2022.09] 论文 \"HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes\" 被 NeurIPS 2022 接收. 恭喜王赞!",
+
+    "[2022.09] 论文 \"Towards Versatile Embodied Navigation\" 被 NeurIPS 2022 接收. 恭喜汗青!"
   ],
   
   "news": [
+    "[2022.09] Two papers were accepted by NeurIPS 2022. Congratulations to Zan and Hanqing!",
+  
+    "[2022.03] Our paper \"Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation\" was accepted by CVPR 2022. Congratulations to Hanqing!",
+
+    "[2021.03] Our paper \"Structured Scene Memory for Vision-Language Navigation\" was accepted by CVPR 2021. Congratulations to Hanqing!",
+
+    "[2021.03] Two papers were accepted by ACM CHI 2021. Congratulations to Yujia!",
+
+    "[2021.02] Two papers were accepted by IEEE VR 2021. Congratulations to Sifan and Jingjing!",
+
     "[2020.08] Our paper \"Scene Mover: Automatic Move Planning for Scene Arrangement by Deep Reinforcement Learning\" was accepted by SIGGRAPH Asia 2020. Congratulations to Hanqing!",
 
     "[2020.07] Two papers were accepted by ACM MM 2020. Congratulations to Yujia and Sifan!",
@@ -34,6 +46,36 @@
   ],
 
   "publications": [
+    {
+      "image": "./project/neurips22_mtn/teaser.png",
+      "title": "Towards Versatile Embodied Navigation",
+      "authors": "Hanqing Wang, Wei Liang, Luc Van Gool, and Wenguan Wang.", 
+      "publisher": "NeurIPS 2022 (CCF A)",
+      "paper": "./project/neurips22_mtn/MTN.pdf",
+      "video": "http://liangwei-bit.github.io/web/",
+      "presentation": "http://liangwei-bit.github.io/web/",
+      "project": "http://liangwei-bit.github.io/web/"
+    },
+    {
+      "image": "./project/neurips22_humanise/teaser.png",
+      "title": "HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes",
+      "authors": "Zan Wang, Yixin Chen, Tengyu Liu, Yixin Zhu, Wei Liang, and Siyuan Huang.", 
+      "publisher": "NeurIPS 2022 (CCF A)",
+      "paper": "https://silvester.wang/HUMANISE/paper.pdf",
+      "video": "https://www.youtube.com/watch?v=NIdqvN8ex4M",
+      "presentation": "https://recorder-v3.slideslive.com/#/share?share=74179&s=0a18d15c-4ca4-424a-8aa7-a91a7ac3701c",
+      "project": "https://silvester.wang/HUMANISE/"
+    },
+    {
+      "image": "./project/cvpr22_counterfactual/teaser.png",
+      "title": "Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation",
+      "authors": "Hanqing Wang, Wei Liang, Jianbing Shen, Luc Van Gool, and Wenguan Wang.",
+      "publisher": "CVPR 2022 (CCF A)",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Counterfactual_Cycle-Consistent_Learning_for_Instruction_Following_and_Generation_in_Vision-Language_CVPR_2022_paper.pdf",
+      "video": "http://liangwei-bit.github.io/web/",
+      "presentation": "http://liangwei-bit.github.io/web/",
+      "project": "https://github.com/HanqingWangAI/CCC-VLN"
+    },
     {
       "image": "https://i.loli.net/2021/06/27/cLnTK41wvZsXO5C.png",
       "title": "Structured Scene Memory for Vision-Language Navigation",
