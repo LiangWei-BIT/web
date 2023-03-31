@@ -6,6 +6,10 @@
   ],
   
   "news": [
+    "[2023.02] Two papers were accepted by CVPR 2023. Congratulations to Chuanqi, Hanqing, and Zan!",
+    
+    "[2023.01] Our paper \"Optimizing Product Placement for Virtual Stores\" is accepted by VR 2023. Congratulations to Luhui!",
+
     "[2022.09] Two papers were accepted by NeurIPS 2022. Congratulations to Zan and Hanqing!",
   
     "[2022.03] Our paper \"Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation\" was accepted by CVPR 2022. Congratulations to Hanqing!",
@@ -46,6 +50,36 @@
   ],
 
   "publications": [
+    {
+      "image": "./project/cvpr23_dra/teaser.png",
+      "title": "Discovering the Real Association: Multimodal Causal Reasoning in Video Question Answering",
+      "authors": "Chuanqi Zang, Hanqing Wang, Mingtao Pei, Wei Liang",
+      "publisher": "CVPR 2023 (CCF A)",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "./project/cvpr23_scenediffuser/teaser.png",
+      "title": "Diffusion-based Generation, Optimization, and Planning in 3D Scenes",
+      "authors": "Siyuan Huang*, Zan Wang*, Puhao Li, Baoxiong Jia, Tengyu Liu, Yixin Zhu, Wei Liang, Song-Chun Zhu",
+      "publisher": "CVPR 2023 (CCF A)",
+      "paper": "https://scenediffuser.github.io/paper.pdf",
+      "video": "https://www.youtube.com/watch?v=a0SSprBoVV4",
+      "presentation": "http://liangwei-bit.github.io/web/",
+      "project": "https://scenediffuser.github.io/"
+    },
+    {
+      "image": "./project/vr23_store/teaser.png",
+      "title": "Optimizing Product Placement for Virtual Stores",
+      "authors": "Wei Liang, Luhui Wang, Xinzhe Yu, Changyang Li, Rawan Alghofaili, Yining Lang, Lap-Fai Yu",
+      "publisher": "IEEE VR 2023 (CCF A)",
+      "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
     {
       "image": "./project/neurips22_mtn/teaser.png",
       "title": "Towards Versatile Embodied Navigation",
