@@ -84,7 +84,7 @@
       "image": "./project/neurips22_mtn/teaser.png",
       "title": "Towards Versatile Embodied Navigation",
       "authors": "Hanqing Wang, Wei Liang, Luc Van Gool, and Wenguan Wang.", 
-      "publisher": "NeurIPS 2022 (CCF A)",
+      "publisher": "NeurIPS 2022 (CCF A), <font style=\"color:#1E90FF\">Spotlight</font>",
       "paper": "./project/neurips22_mtn/MTN.pdf",
       "video": "http://liangwei-bit.github.io/web/",
       "presentation": "http://liangwei-bit.github.io/web/",
@@ -174,7 +174,7 @@
       "image": "https://i.loli.net/2021/02/07/K8V6PvYqaQk9XIO.jpg",
       "title": "Scene-Aware Background Music Synthesis.",
       "authors": "Yujia Wang, Wei Liang, Wanwan Li, Dingzeyu Li, and Lap-Fai Yu",
-      "publisher": "ACM MM 2020 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation (9% acceptance rate) </font>",
+      "publisher": "ACM MM 2020 (CCF A), <font style=\"color:#1E90FF\">Oral Presentation (9% acceptance rate) </font>",
       "paper": "http://liangwei-bit.github.io/web/project/mm20_music/MM-music.pdf",
       "video": "https://youtu.be/fG2u2QG8ejU",
       "presentation": "/",
@@ -184,7 +184,7 @@
       "image": "./project/mm20_pose/mm20_pose.jpg",
       "title": "Photo Stand-Out: Photography with Virtual Character.",
       "authors": "Yujia Wang, Sifan Hou, Bing Ning, and Wei Liang.",
-      "publisher": "ACM MM 2020 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation (9% acceptance rate) </font>",
+      "publisher": "ACM MM 2020 (CCF A), <font style=\"color:#1E90FF\">Oral Presentation (9% acceptance rate) </font>",
       "paper": "/",
       "video": "/",
       "presentation": "/",
@@ -244,7 +244,7 @@
       "image": "https://i.loli.net/2020/09/26/SC1dtHu6JKarlxR.gif",
       "title": "Deep Single-View 3D Object Reconstruction with Visual Hull Embedding",
       "authors": "Hanqing Wang, Jiaolong Yang, Wei Liang and Xin Tong. ",
-      "publisher": "AAAI 2019 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation </font>",
+      "publisher": "AAAI 2019 (CCF A), <font style=\"color:#1E90FF\">Oral Presentation </font>",
       "paper": "https://arxiv.org/pdf/1809.03451.pdf",
       "video": "https://youtu.be/nBjzM7PasGk",
       "presentation": "http://liangwei-bit.github.io/web/project/aaai19_3d_recon/presentation.pdf",
@@ -314,7 +314,7 @@
       "image": "https://i.loli.net/2020/09/26/DesYv2wZ9iBqMTA.gif",
       "title": "What is Where: Inferring Containment Relations from Videos.",
       "authors": "Wei Liang, Yibiao Zhao, Yixin Zhu, and Song-chun Zhu.",
-      "publisher": "IJCAI 2016 (CCF A)</strong>, <font style=\"color:#1E90FF\">Oral Presentation </font>",
+      "publisher": "IJCAI 2016 (CCF A), <font style=\"color:#1E90FF\">Oral Presentation </font>",
       "paper": "http://liangwei-bit.github.io/web/project/ijcai16_container/ijcai16_container.pdf",
       "video": "https://youtu.be/VQlssiSGQHc",
       "presentation": "/",
@@ -339,53 +339,6 @@
       "video": "https://www.youtube.com/watch?v=kmO4MptwhhM",
       "presentation": "http://liangwei-bit.github.io/web/project/cogsci15_container/ppt.pdf",
       "project": "http://liangwei-bit.github.io/web/project/cogsci15_container"
-    }
-  ],
-
-  "photos": [
-    {
-      "img": "./People - MCISLab_files/activity20210530-1.jpg",
-      "des": "2021.5.30"
-    },
-    {
-      "img": "./People - MCISLab_files/activity20210530-2.jpg",
-      "des": "2021.5.30"
-    },
-    {
-      "img": "./People - MCISLab_files/activity_000.jpg",
-      "des": "聚餐"
-    },
-    {
-      "img": "./People - MCISLab_files/activity_001.jpg",
-      "des": ""
-    },
-    {
-      "img": "./People - MCISLab_files/activity_002.jpg",
-      "des": ""
-    },
-    {
-      "img": "./People - MCISLab_files/activity_003.jpg",
-      "des": ""
-    },
-    {
-      "img": "./People - MCISLab_files/activity_004.jpg",
-      "des": "聚餐"
-    },
-    {
-      "img": "./People - MCISLab_files/activity_005.jpg",
-      "des": "MCIS 2020 年会"
-    },
-    {
-      "img": "./People - MCISLab_files/activity_006.jpg",
-      "des": "2017 VR"
-    },
-    {
-      "img": "./People - MCISLab_files/activity_007.png",
-      "des": "2018 VR"
-    },
-    {
-      "img": "./People - MCISLab_files/activity_008.jpg",
-      "des": "2018 VR"
     }
   ]
 }

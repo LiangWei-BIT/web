@@ -32,6 +32,10 @@
 		a {
 			color: #000000;
 		}
+
+		.activity {
+			margin: 1em 0;
+		}
 	</style>
 </head>
 
@@ -76,12 +80,81 @@
 		<br>
 		<br>
 
-		<h3>Activities</h3>
-
-
-
 		<div class="row">
-			<lab-activity v-for="(act, index) in activities" v-bind:key="index" v-bind:activity="act"></lab-activity>
+			<div class="span6" style="margin-bottom: 10px;">
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-06.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-02.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-01.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-08.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity20210530-1.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-09.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity20210530-2.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_001.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_003.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_005.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_007.png">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_008.jpg">
+				</div>
+			</div>
+
+			<div class="span6" style="margin-bottom: 10px;">
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-07.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-03.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-04.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-05.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-10.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-11.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity230626-12.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_000.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_002.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_004.jpg">
+				</div>
+				<div class="thumbnail activity">
+					<img src="./People - MCISLab_files/activity_006.jpg">
+				</div>
+			</div>
 		</div>
 
 		<br>
@@ -120,39 +193,5 @@
     <br>
 	</div>
 </body>
-<script>
-Vue.component('lab-activity', {
-  template: `
-	<div class="span6" style="margin-bottom: 10px;">
-		<div class="thumbnail">
-			<img v-bind:src="activity.img">
-			<div class="caption">
-				<p>{{ activity.des }}</p>
-			</div>
-		</div>
-	</div>
-	`,
-  props: ['activity']
-})
-
-let app = new Vue({
-	el: '#app',
-	data: {
-		activities: [],
-	},
-	methods: {
-		loadData() {
-			let vm = this
-
-			$.getJSON( "./data.json", function(json) {
-				vm.activities = json["photos"]
-			});
-		},
-	},
-})
-
-app.loadData()
-
-</script>
 
 </html>
