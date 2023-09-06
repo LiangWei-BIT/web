@@ -51,11 +51,31 @@
 
   "publications": [
     {
+      "image": "./project/iccv23_dreamwalker/teaser.jpg",
+      "title": "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation",
+      "authors": "Hanqing Wang, Wei Liang, Luc Van Gool, Wenguan Wang",
+      "publisher": "ICCV 2023 (CCF A)",
+      "paper": "./project/iccv23_dreamwalker/dreamwalker.pdf",
+      "video": "/",
+      "presentation": "/",
+      "project": "https://github.com/hanqingwangai/Dreamwalker"
+    },
+    {
+      "image": "./project/icml23_mewl/teaser.png",
+      "title": "MEWL: Few-shot multimodal word learning with referential uncertainty",
+      "authors": "Guangyuan Jiang, Manjie Xu, Shiji Xin, Wei Liang, Yujia Peng, Chi Zhang, Yixin Zhu",
+      "publisher": "ICML 2023 (CCF A)",
+      "paper": "https://arxiv.org/abs/2306.00503",
+      "video": "https://vimeo.com/843479503",
+      "presentation": "/",
+      "project": "https://sites.google.com/view/mewl"
+    },
+    {
       "image": "./project/cvpr23_dra/teaser.png",
       "title": "Discovering the Real Association: Multimodal Causal Reasoning in Video Question Answering",
       "authors": "Chuanqi Zang, Hanqing Wang, Mingtao Pei, Wei Liang",
       "publisher": "CVPR 2023 (CCF A)",
-      "paper": "/",
+      "paper": "https://openaccess.thecvf.com/content/CVPR2023/papers/Zang_Discovering_the_Real_Association_Multimodal_Causal_Reasoning_in_Video_Question_CVPR_2023_paper.pdf",
       "video": "/",
       "presentation": "/",
       "project": "/"
@@ -76,6 +96,16 @@
       "authors": "Wei Liang, Luhui Wang, Xinzhe Yu, Changyang Li, Rawan Alghofaili, Yining Lang, Lap-Fai Yu",
       "publisher": "IEEE VR 2023 (CCF A)",
       "paper": "/",
+      "video": "/",
+      "presentation": "/",
+      "project": "/"
+    },
+    {
+      "image": "./project/ijcv23_active/teaser.jpg",
+      "title": "Active Perception for Visual-Language Navigation",
+      "authors": "Hanqing Wang, Wenguan Wang, Wei Liang, Steven C. H. Hoi, Jianbing Shen, Luc Van Gool",
+      "publisher": "IJCV 2023 (CCF A)",
+      "paper": "https://link.springer.com/article/10.1007/s11263-022-01721-6",
       "video": "/",
       "presentation": "/",
       "project": "/"
