@@ -1,11 +1,15 @@
-{
-  "news_ch": [
-    "[2022.09] 论文 \"HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes\" 被 NeurIPS 2022 接收. 恭喜王赞!",
-
-    "[2022.09] 论文 \"Towards Versatile Embodied Navigation\" 被 NeurIPS 2022 接收. 恭喜汗青!"
-  ],
-  
+{ 
   "news": [
+    "[2024.02] One paper was accepted by CVPR 2024. Congratulations to Zan!",
+
+    "[2024.01] One paper was accepted by IEEE VR 2024. Congratulations to Yuxin!",
+
+    "[2023.07] Two papers were accepted by NeurIPS 2023. Congratulations to Manjie!",
+
+    "[2023.07] One paper \"DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation\" was accepted by ICCV 2023. Congratulations to Hanqing!",
+
+    "[2023.04] One paper \"MEWL: Few-shot multimodal word learning with referential uncertainty\" was accepted by ICML 2023. Congratulations to Manjie!",
+
     "[2023.02] Two papers were accepted by CVPR 2023. Congratulations to Chuanqi, Hanqing, and Zan!",
     
     "[2023.01] Our paper \"Optimizing Product Placement for Virtual Stores\" is accepted by VR 2023. Congratulations to Luhui!",
@@ -51,7 +55,27 @@
 
   "publications": [
     {
-      "image": "./project/iccv23_dreamwalker/teaser.jpg",
+      "image": "./project/neurips23_conan/teaser.jpg",
+      "title": "Active Reasoning in an Open-World Environment",
+      "authors": "Manjie Xu, Guangyuan Jiang, Wei Liang, Chi Zhang, Yixin Zhu",
+      "publisher": "NeurIPS 2023 (CCF A)",
+      "paper": "https://arxiv.org/pdf/2311.02018.pdf",
+      "video": "https://vimeo.com/878540519",
+      "presentation": "/",
+      "project": "https://sites.google.com/view/conan-active-reasoning"
+    },
+    {
+      "image": "./project/neurips23_ivre/teaser.jpg",
+      "title": "Interactive Visual Reasoning under Uncertainty",
+      "authors": "Manjie Xu*, Guangyuan Jiang*, Wei Liang, Chi Zhang, Yixin Zhu",
+      "publisher": "NeurIPS 2023 (CCF A)",
+      "paper": "https://arxiv.org/pdf/2206.09203.pdf",
+      "video": "https://vimeo.com/879078625",
+      "presentation": "/",
+      "project": "https://sites.google.com/view/ivre"
+    },
+    {
+      "image": "./project/iccv23_dreamwalker/teaser.png",
       "title": "DREAMWALKER: Mental Planning for Continuous Vision-Language Navigation",
       "authors": "Hanqing Wang, Wei Liang, Luc Van Gool, Wenguan Wang",
       "publisher": "ICCV 2023 (CCF A)",

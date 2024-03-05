@@ -1,0 +1,49 @@
+html {
+  background-color: #fafafa;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  background-color: #fafafa;
+}
+
+.my-section {
+  padding: 1em 1.5em;
+}
+
+.paper-title {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.paper-author {
+  font-size: 0.9em;
+}
+
+.paper-publisher {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.link-icon {
+  color: #3273dc;
+}
+
+.activity {
+  padding: 0.6em;
+}
+
+.avatar a {
+  font-weight:bold;
+  vertical-align: middle;
+  color:#4169E1;
+}
+
+.avatar .name {
+  padding-top: 0.5em;
+  font-size: 0.9em;
+}
+
+.alumni {
+  font-size: 0.9em;
+}

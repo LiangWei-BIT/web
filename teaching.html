@@ -35,42 +35,14 @@
         <div class="column is-9">
           <nav class="breadcrumb is-centered" aria-label="breadcrumbs" style="margin-top: 1em;">
             <ul style="font-size: 120%;">
-              <li class="is-active"><a href="/" aria-current="page">Home</a></li>
+              <li><a href="/">Home</a></li>
               <li><a href="/people.html">People</a></li>
-              <li><a href="/teaching.html">Teaching</a></li>
+              <li class="is-active"><a href="/teaching.html" aria-current="page">Teaching</a></li>
               <li><a href="/photo.html">Photos</a></li>
             </ul>
           </nav>
         </div>
       </div>
-
-      <div class="columns">
-        <div class="column is-3">
-          <div class="block" style="margin: 0em 2.2em;">
-            <figure class="image is-1by1">
-              <img class="is-rounded" src="./static/images/people/liangwei.png">
-            </figure>
-          </div>
-        </div>
-        <div class="column is-9">
-          <p style="font-size:100%; text-align:justify;">
-            I am a professor in the school of <strong>Computer Science</strong> at <strong>Beijing Institute of
-              Technology</strong> (BIT).
-  
-            I received my Ph.D in computer science from BIT in 2005.&nbsp; I worked as a visiting professor at &nbsp;<a
-              href="http://www.stat.ucla.edu/~sczhu/" target="_blank"
-              style=" font-weight:bold; vertical-align: middle;color:#000000">Song-Chun Zhu</a>&nbsp;'s Vision Cognition
-            Learning and Autonomous &nbsp;(VCLA)&nbsp;in 2014 and 2015.&nbsp;&nbsp;My research
-  
-            interests lie in the field of Computer Vision, Statistical Inference, VR for training and education, and
-            Cognitive Science.
-  
-            <br><br>
-  
-            <strong>Email:liangwei[at]bit[dot]edu[dot]cn</strong>
-          </p>
-        </div>
-      </div>
     </div>
   </div>
 </section>
@@ -78,25 +50,7 @@
 <section class="section my-section">
   <div class="container is-max-desktop">
     <div class="content" style="padding-left: 2em; padding-right: 0em;">
-      <h5 class="title is-5">Recent News</h5>
-
-      <div>
-        <ul style="font-size:1em; text-align:justify">
-          <li v-for="(news_html, index) in news" :key="index">
-            <span v-html="news_html"></span>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section my-section">
-  <div class="container is-max-desktop">
-    <div class="content" style="padding-left: 2em; padding-right: 0em;">
-      <h5 class="title is-5">Selected Publications</h5>
-
-      <my-publication v-for="(pub, index) in pubs" v-bind:key="index" v-bind:pub="pub"></my-publication>
+      <h5 class="title is-5">Coming soon!</h5>
     </div>
   </div>
 </section>

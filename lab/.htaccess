@@ -1,4 +1,0 @@
-        AuthName "Please enter the password:"      
-        AuthType Basic    
-        AuthUserFile C:/Web_IITLab/mcislab/~liangwei/lab/user.passwd  
-        require valid-user
