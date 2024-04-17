@@ -1,38 +1,75 @@
+:root {
+  --main-bg-color: #fafafa;
+  --main-light-color: #FE5A1D;
+  --main-link-color: #3273dc;
+}
+
 html {
-  background-color: #fafafa;
+  background-color: var(--main-bg-color);
 }
 
 body {
   font-family: 'Noto Sans', sans-serif;
-  background-color: #fafafa;
+  background-color: var(--main-bg-color);
+}
+
+.nav-header a {
+  color: var(--main-link-color);
 }
 
 .my-section {
   padding: 1em 1.5em;
 }
 
+/* Main Page */
 .paper-title {
-  font-size: 1em;
+  font-size: 1.05em;
   font-weight: bold;
+  line-height: 1.4;
+  margin-bottom: 0.35em;
 }
 
 .paper-author {
-  font-size: 0.9em;
+  font-size: 0.95em;
+  line-height: 1.18;
+  margin-bottom: 0.35em;
 }
 
 .paper-publisher {
-  font-size: 0.9em;
+  font-size: 0.95em;
   font-weight: bold;
+  margin-bottom: 0.35em;
 }
 
-.link-icon {
-  color: #3273dc;
+.paper-links {
+  margin-bottom: 0.35em;
 }
 
+.paper-links a {
+  font-size: 1em;
+  color: var(--main-link-color);
+  text-decoration: underline;
+}
+
+.paper-links a:hover {
+  font-size: 1em;
+  color: var(--main-link-color);
+  text-decoration: none;
+}
+
+.paper-description {
+  font-size: 0.95em;
+  text-align: justify;
+  line-height: 1.18;
+  color: var(--main-light-color);
+}
+
+/* Photo Page */
 .activity {
   padding: 0.6em;
 }
 
+/* People Page */
 .avatar a {
   font-weight:bold;
   vertical-align: middle;
