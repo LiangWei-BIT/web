@@ -1,5 +1,9 @@
 { 
   "news": [
+    "[2024.07] Two paper was accepted by IROS 2024. Congratulations to Jiaxin, Zan, and Hanqing!",
+
+    "[2024.05] Two paper was accepted by ICML 2024. Congratulations to Manjie!",
+
     "[2024.02] One paper was accepted by CVPR 2024. Congratulations to Zan!",
 
     "[2024.01] One paper was accepted by IEEE VR 2024. Congratulations to Yuxin!",
@@ -54,6 +58,39 @@
   ],
 
   "publications": [
+    {
+      "image": "./project/iros24_tosa/teaser.png",
+      "title": "Visual Loop Closure Detection with Thorough Temporal and Spatial Context Exploitation",
+      "authors": "Jiaxin Li*, Zan Wang*, Huijun Di, Jian Li, Wei Liang",
+      "publisher": "IROS 2024 (CCF C), <font style=\"color:#FF0800\">Oral Pitch</font>",
+      "paper": "https://gauleejx.github.io/IROS2024_TOSA/static/pdfs/TOSA.pdf",
+      "video": "https://www.youtube.com/watch?v=CmxsxJgDCXo",
+      "presentation": "/",
+      "project": "https://gauleejx.github.io/IROS2024_TOSA/",
+      "description": "We propose to leverage the global temporal and local spatial-temporal information for loop closure detection."
+    },
+    {
+      "image": "./project/iros24_plato/teaser.png",
+      "title": "Mastering Scene Rearrangement with Expert-assisted Curriculum Learning and Adaptive Trade-Off Tree-Search",
+      "authors": "Zan Wang*, Hanqing Wang*, Wei Liang",
+      "publisher": "IROS 2024 (CCF C), <font style=\"color:#FF0800\">Oral Pitch</font>",
+      "paper": "https://pl-ato.github.io/static/pdfs/paper.pdf",
+      "video": "https://www.youtube.com/watch?v=gUYR1Hk8eVI",
+      "presentation": "/",
+      "project": "https://pl-ato.github.io/",
+      "description": "We solve scene rearrangement planning by introducing an expert-assisted curriculum learning paradigm and a tree-search-based planner enhanced by an adaptive trade-off strategy."
+    },
+    {
+      "image": "./project/icml24_ppae/teaser.jpg",
+      "title": "Prompt-guided Precise Audio Editing with Diffusion Models",
+      "authors": "Manjie Xu, Chenxing Li, Dan Su, Wei Liang, Dong Yu",
+      "publisher": "ICML 2024 (CCF A)",
+      "paper": "https://openreview.net/pdf?id=kQ1dwuheR0",
+      "video": "/",
+      "presentation": "/",
+      "project": "https://sites.google.com/view/icml24-ppae",
+      "description": "We present a novel editing approach guided by textual prompt which serves as a general module for diffusion models and enables precise editing of multimodal generation content."
+    },
     {
       "image": "./project/cvpr24_afford/teaser.gif",
       "title": "Move as You Say, Interact as You Can: Language-guided Human Motion Generation with Scene Affordance",
