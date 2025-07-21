@@ -70,10 +70,7 @@ let app = new Vue({
 	methods: {
 		loadData() {
 			let vm = this
-
-			$.getJSON( "./data.json", function(json) {
-				vm.jsondata = json
-			});
+			vm.jsondata = data
 		},
 	},
 })

@@ -1,4 +1,4 @@
-{ 
+data = { 
   "news": [
     "[2024.12] Our paper \"FloNa: Floor Plan Guided Embodied Visual Navigation\" was accepted as an oral presentation at AAAI 2025. Congratulations to Jiaxin and Weiqi!",
     
