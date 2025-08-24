@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.primary-link {
+  @apply text-blue-600 underline underline-offset-3 hover:no-underline;
+}
+
+.secondary-link {
+  @apply text-black hover:underline hover:underline-offset-2;
+}
